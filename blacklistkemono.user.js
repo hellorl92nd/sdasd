@@ -9,6 +9,8 @@
 // @downloadURL  https://github.com/valdearg/KemonoPartyBlacklist/raw/main/blacklistkemono.user.js
 // @supportURL   https://t.me/kemonoparty
 // @include      /^https:\/\/kemono\.(party|su)\/.*$/
+// @include      /^https:\/\/coomer\.(party|su)\/.*$/
+// @include      /^https:\/\/nekohouse\.(party|su)\/.*$/
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // @license      CC BY-NC-SA 4.0
 // @run-at       document-end
