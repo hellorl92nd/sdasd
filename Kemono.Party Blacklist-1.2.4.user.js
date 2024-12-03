@@ -11,7 +11,7 @@
 // @include      /^https:\/\/coomer\.(party|su)\/.*$/
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // @license      CC BY-NC-SA 4.0
-// @run-at       document-end
+// @run-at       context-menu
 // @downloadURL https://update.sleazyfork.org/scripts/443899/KemonoParty%20Blacklist.user.js
 // @updateURL https://update.sleazyfork.org/scripts/443899/KemonoParty%20Blacklist.meta.js
 // ==/UserScript==
