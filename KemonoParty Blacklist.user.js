@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kemono.Party Blacklist
 // @namespace    https://MeusArtis.ca
-// @version      1.3.5
+// @version      KCN1.0
 // @author       Meus Artis
 // @description  Blacklists posts by Creator ID
 // @icon         https://www.google.com/s2/favicons?domain=kemono.su
