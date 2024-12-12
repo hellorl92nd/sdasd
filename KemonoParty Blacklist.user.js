@@ -9,7 +9,17 @@
 // @match        https://kemono.su/artists*
 // @match        https://kemono.su/account/favorites/*
 // @match        https://kemono.su/dms*
-// @match        https://kemono.su/posts*
+// @match        https://kemono.su
+// @match        https://coomer.su/*/user/*
+// @match        https://coomer.su/artists*
+// @match        https://coomer.su/account/favorites/*
+// @match        https://coomer.su/dms*
+// @match        https://coomer.su
+// @match        https://nekohouse.su/*/user/*
+// @match        https://nekohouse.su/artists*
+// @match        https://nekohouse.su/account/favorites/*
+// @match        https://nekohouse.su/dms*
+// @match        https://nekohouse.su
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js
 // @license      CC BY-NC-SA 4.0
 // @run-at       document-end
